@@ -5,7 +5,7 @@
 
 - 🔭 My current Research Areas are Kubernetes Scheduler and eBPF Service Mesh. 
 
-- 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently developing and maintaining [Ticket Hub](https://tickethub.geddes.rcac.purdue.edu/).
+- 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently developing [Ticket Hub](https://tickethub.geddes.rcac.purdue.edu/).
 
 - 🤝🏻 I’m looking to collaborate on **Cloud Native Projects**.
 
