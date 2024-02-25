@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Karunai Kiri Ragavan</h1>
+<h1 align="center">Hello, I'm Vivek Karunai Kiri Ragavan</h1>
 <h3 align="center">Cloud and DevOps Engineer</h3>
 
 - 🎓 I'm currently pursuing my Master's degree in Computer and Information Technology from Purdue University.
