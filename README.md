@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vivek Karunai Kiri Ragavan</h1>
-<h3 align="center">Cloud and DevOps Engineer</h3>
+<h3 align="center">Cloud and DevSecOps Engineer</h3>
 
 - 🎓 I'm currently pursuing my Master's degree in Computer and Information Technology from Purdue University.
 
@@ -20,7 +20,7 @@
 <!--[![CCNA: Cisco Certified Network Associate](https://images.credly.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)](https://www.credly.com/badges/9267f61b-e830-49c7-8ddc-35fbc010403c/public_url "Cisco Certified Network Associate")-->
 
 
-## Skillset
+<!-- ## Skillset
 ### DevOps Tools
 ![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,jenkins,prometheus,grafana,git,github,ansible,terraform,kafka)
 ### Cloud Platforms
@@ -28,7 +28,7 @@
 ### Languages and Frameworks
 ![My Skills](https://skillicons.dev/icons?i=python,go,javascript,java,bash,html,css,flask,nodejs,react,angular)
 ### Databases and Operating Systems
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,linux,windows)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,linux,windows) -->
 
 ## Stats and Progress
 <a href="https://github.com/vivekk16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekk16&layout=compact&hide=shell&theme=blueberry&hide_border=false&bg_color=ffffff00" height="150"></a>
