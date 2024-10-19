@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Vivek Karunai Kiri Ragavan</h1>
 <h3 align="center">Cloud and DevSecOps Engineer</h3>
 
-- 🎓 I'm currently pursuing my Master's degree in Computer and Information Technology from Purdue University.
+- 🎓 I'm currently pursuing my Master's degree in Computer and Information Technology from Purdue University
 
-- 🔭 My current Research Areas are Kubernetes Scheduler and eBPF Service Mesh. 
+- 🔭 My current Research Areas are Kubernetes Scheduler and eBPF Service Mesh
 
-- 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently working on AnvilGPT and PurdueGPT.
+- 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently working on AnvilGPT and PurdueGPT
 
-- 🤝🏻 I’m looking to collaborate on **Cloud Native Projects**.
+- 🤝🏻 I’m looking to collaborate on **Cloud Native Projects**
 
 ## Connect with me
 <a href= "mailto: vivek16.kvk@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
