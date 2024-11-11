@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently pursuing my Master's degree in Computer and Information Technology from Purdue University
 
-- 🔭 My current Research Areas are Kubernetes Scheduler and eBPF Service Mesh
+- 🔭 My current Research Areas are Kubernetes Scheduler and eBPF based Service Mesh
 
 - 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently working on AnvilGPT and PurdueGPT
 
