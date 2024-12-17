@@ -31,6 +31,6 @@
 ### Databases and Operating Systems
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,linux,windows) -->
 
-## Stats and Progress
+<!-- ## Stats and Progress
 <a href="https://github.com/vivekk16"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekk16&layout=compact&hide=shell&theme=blueberry&hide_border=false&bg_color=ffffff00" height="150"></a>
-<a href="https://leetcode.com/vivek_k16"><img src="https://leetcard.jacoblin.cool/vivek_k16?theme=dark&border=3)" height="150" ></a>
+<a href="https://leetcode.com/vivek_k16"><img src="https://leetcard.jacoblin.cool/vivek_k16?theme=dark&border=3)" height="150" ></a> -->
