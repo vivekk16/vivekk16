@@ -5,7 +5,7 @@
 
 - 🔭 My current Research Areas are Kubernetes Scheduler and eBPF based Service Mesh
 
-- 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently working on AnvilGPT and PurdueGPT
+- 👨🏻‍💻 As a Graduate Professional at Purdue's Rosen Center for Advanced Computing, I’m currently building Purdue Gen AI Studio.
 
 - 🤝🏻 I’m looking to collaborate on **Cloud Native Projects**
 
