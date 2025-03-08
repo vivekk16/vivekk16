@@ -1,8 +1,8 @@
 **Vivek Karunai Kiri Ragavan** is a Graduate Student at **Purdue University**, set to graduate in **May 2025**. He has over four years of experience in **Kubernetes**, **Cloud**, and **Software Engineering** at scale, having contributed to platforms at **Cisco Systems**, **Eli Lilly**, and **Purdue's Rosen Center for Advanced Computing**.
 
-His current focus is on Large Language Models (LLMs), AI Model Serving, and Kubernetes, with research centered on efficient resource scheduling, GPU autoscaling, and network-aware scheduling.
+His current focus is on Kubernetes, ML/AI Model Serving, and LLMOps with research centered on efficient resource scheduling, GPU autoscaling, and network-aware scheduling.
 
-An active open-source contributor, Vivek is deeply engaged in cloud-native technologies and AI/ML infrastructure. As **President** and **Mentor** of the **Cloud Native Association at Purdue**, he leads efforts to build a strong community around cloud-native computing.
+An active open-source contributor, Vivek is deeply engaged in cloud-native technologies and ML/AI infrastructure. As **President** and **Mentor** of the **Cloud Native Association at Purdue**, he leads efforts to build a strong community around cloud-native computing.
 
 ## Certifications
 [![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/badges/74352d0c-204a-4b8f-85fa-f32c687d99d6/public_url "CKA: Certified Kubernetes Application Developer")
